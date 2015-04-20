@@ -4,5 +4,6 @@ public class Hello_test {
 		
 		System.out.println("Terve github!");
 		System.out.println("Tehd‰‰np‰ muutosta.....");
+		System.out.println("Mika was here");
 	}
 }
