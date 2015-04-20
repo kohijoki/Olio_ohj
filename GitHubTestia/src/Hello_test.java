@@ -6,5 +6,6 @@ public class Hello_test {
 		System.out.println("Tehd‰‰np‰ muutosta.....");
 		System.out.println("Mika was here");
 		System.out.println("Mika was here 2");
+		System.out.println("Kallen muutos ");
 	}
 }
